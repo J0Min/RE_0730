@@ -25,3 +25,7 @@ Blackboard의 decorator로 조건 사용
 Montage의 Enabled auto blend out으로 애니메이션이 자동으로 섞이는 것을 방지
 
 Blackboard의 decorator의 Blackboard의 키값을 이용하여 제어와 Observer aborts로 중단까지 조절
+
+## part 14
+
+part 8과 9를 응용하여 적이 hit시 플레이어가 맞는 동작 추가
