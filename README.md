@@ -29,3 +29,9 @@ Blackboard의 decorator의 Blackboard의 키값을 이용하여 제어와 Observ
 ## part 14
 
 part 8과 9를 응용하여 적이 hit시 플레이어가 맞는 동작 추가
+
+## part 15
+
+블루프린트의 열거형 이용
+
+PlayerController와 Widget의 UI 이용
