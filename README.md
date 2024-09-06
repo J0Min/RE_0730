@@ -35,3 +35,19 @@ part 8과 9를 응용하여 적이 hit시 플레이어가 맞는 동작 추가
 블루프린트의 열거형 이용
 
 PlayerController와 Widget의 UI 이용
+
+## part 16
+
+Data struct와 table(DB형태) 이용
+
+S_item은 table의 베이스로 이용 / S_slot은 인벤토리 1칸의 모양을 정의
+
+블루프린트의 인터페이스 이용 (서로 다른 블루프린트를 연결시킴)
+
+DragDropOperation 블루프린트 이용
+
+함수 오버라이드의 onPreviewMouseButtonDown, OnDragDetected 이용
+
+이벤트 디스패처 이용
+
+그 외의 많은 것들...
