@@ -51,3 +51,7 @@ DragDropOperation 블루프린트 이용
 이벤트 디스패처 이용
 
 그 외의 많은 것들...
+
+## part 17
+
+BPI의 재 등장
