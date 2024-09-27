@@ -55,3 +55,11 @@ DragDropOperation 블루프린트 이용
 ## part 17
 
 BPI의 재 등장
+
+## part 19
+
+오브젝트의 클래스타입 사용
+
+ABP로 Rifle 애니메이션 조정
+
+Transform to Bone Space, TWO Bone IK, FABRIK ...?
