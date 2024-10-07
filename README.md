@@ -63,3 +63,15 @@ BPI의 재 등장
 ABP로 Rifle 애니메이션 조정
 
 Transform to Bone Space, TWO Bone IK, FABRIK ...?
+
+===========================
+
+Character movement(rotation)에서 컨트롤러 선회 회전 사용과 무브먼트 방향으로 회전 조정이 있을때 후자(무브먼트 방향으로 회전)이 높은 우선순위를 갖는다.
+
+===========================
+
+additive anim type - mesh space - selected animation scaled
+
+aim offset, get aim base rotation
+
+# 벡터의 이용 - 벡터의 차로 방향벡터 만들고, 벡터의 덧셈으로 방향 보정
